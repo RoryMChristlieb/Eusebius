@@ -8,6 +8,6 @@ Currently supported:
 
 Features be implemented:
 * Ad hoc archiving with SingleFile and filesharing websites
-*Archiving multiple websites in one run via .txt file
+* Archiving multiple websites in one run via .txt file
 * Megalodon.jp and Perma.cc website support
 * Outbound link archiving like with the Wayback Machine
